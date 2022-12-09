@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RegexHelper",
+        "repositoryURL": "https://github.com/swiftyaf/RegexHelper",
+        "state": {
+          "branch": "main",
+          "revision": "4fd7467b24083deaa72f7f0ec8c8e85e3a436772",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
